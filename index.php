@@ -1,6 +1,6 @@
 <?php
 
-$things = ['fish','chicken','mutton','beef','kucing','kangaroo'];
+$things = ['fish','chicken','mutton','beef','cabbage','carrot'];
 $shopItem = [];
 
 class hq{
