@@ -86,4 +86,5 @@ for($i=0;$i<3;){
 }
 
 // print_r ($shopItem);
+// credit to hafiy for the guidance <3
 ?>
